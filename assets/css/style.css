@@ -237,7 +237,8 @@ p.end.text-center {
 
 img.logo-site {
   display: none;
-  max-width: 106px;
+  max-width: 125px;
+  height: auto;
 }
 
 a.navbar-brand {
