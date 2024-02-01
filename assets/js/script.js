@@ -92,15 +92,15 @@ function scrollFunction() {
   }
 }
 
-$(document).ready(function () {
-  $(window).scroll(function () {
-    var scroll = $(window).scrollTop();
-    if (scroll > 20) {
-      $(".navbar").css("background", "#e5e5e5");
-      $(".logo-site").css("display", "block");
-    } else {
-      $(".navbar").css("background", "#33333300");
-      $(".logo-site").css("display", "none");
-    }
-  });
-});
+// $(document).ready(function () {
+//   $(window).scroll(function () {
+//     var scroll = $(window).scrollTop();
+//     if (scroll > 20) {
+//       $(".navbar").css("background", "#e5e5e5");
+//       $(".logo-site").css("display", "block");
+//     } else {
+//       $(".navbar").css("background", "#33333300");
+//       $(".logo-site").css("display", "none");
+//     }
+//   });
+// });
