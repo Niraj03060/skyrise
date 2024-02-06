@@ -91,6 +91,9 @@ function scrollFunction() {
     mybutton.style.display = "none";
   }
 }
+function changeimage(element){
+  element.classList.toggle("location-plan-change");
+}
 
 // $(document).ready(function () {
 //   $(window).scroll(function () {

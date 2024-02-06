@@ -500,6 +500,20 @@ img.bullets-pov {
   width: 100%;
 }
 
+.location-plan-change {
+  top: 0;
+  left: 0;
+  margin: 20px;
+  width: 60%;
+  position: fixed;
+  z-index: 9999;
+  display: block;
+  height: auto;
+ 
+}
+
+
+
 .skyrise-amen-lists {
   text-align: left;
   color: white;
