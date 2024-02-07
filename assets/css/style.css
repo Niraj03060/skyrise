@@ -733,18 +733,20 @@ section#tyfssec1 {
   }
 
   img.bullets-pov {
+    margin-top: 5px;
     width: 9%;
   }
 
   .list-unstyled-pov {
-    margin: 20px 30px;
+    margin: 15px 10px;
     padding: 5px;
   }
 
   .text-pov {
-    line-height: inherit;
-    font-size: 18px;
-    padding: 3px 12px;
+    text-align: left;
+    line-height: 1.5rem;
+    font-size: 15px;
+    padding: 2px 10px;
   }
 
   .hambrger {
@@ -774,8 +776,8 @@ section#tyfssec1 {
   }
 
   .skyrise-big-header-blue {
-    font-size: 25px;
-    line-height: 35px;
+    font-size: 20px;
+    line-height: 30px;
   }
 
   .skyrise-big-header {
@@ -816,7 +818,7 @@ section#tyfssec1 {
     margin: 25px auto;
   }
 
-  .skyrise-amenities,
+  
   .skyrise-project-hallmarks,
   .skyrise-connectivity,
   .configuration2,
@@ -825,6 +827,9 @@ section#tyfssec1 {
   section.skyrise-gallery-carousal,
   .skyrise-conf {
     padding: 2.5rem 2rem;
+  }
+  .skyrise-amenities{
+    padding: 2.5rem 0rem;
   }
 
   .skyrise-con-blocks {
